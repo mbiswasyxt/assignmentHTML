@@ -1,0 +1,39 @@
+{
+  "blogs": [
+    {
+      "name": "Conversational AI: Search, Chat, and Great Customer Experiences",
+      "image": "https://a.mktgcdn.com/p/n4oydHm4KyFvkXaIWaNvK_smGowSS9nanFUsNEvPKaI/1560x878.png"
+    },
+    {
+      "name": "What Google's Profile Strength Update Means for Businesses",
+      "image": "https://a.mktgcdn.com/p/8KxcNxlOLlF-7MSjylX0czTWdHgNdTreMoqWTerzei0/1560x878.jpg"
+    },
+    {
+      "name": "Yext’s Policy On Ethical AI Design",
+      "image": "https://a.mktgcdn.com/p/sNNMaEVhAdooPRsyKNhRLRgbQSq_zOqlz1VyweVrAUQ/1560x878.jpg"
+    }
+  ],
+  "community": [
+    {
+      "question": "Pages module 1 unit 3 - Failed to create initial commit",
+      "description": "Running into the attached error after step 3, naming my Pages repo. pages unit 3 module 31480×400 139 KB",
+      "icon": "http://thenewcode.com/assets/images/thumbnails/sarah-parmenter.jpeg",
+      "comments": "0",
+      "daysOld": "1"
+    },
+    {
+      "question": "Assessment of the Module 15 of the Knowledge Graph is not working properly",
+      "description": "When I complete all of the points, the results said that are wrong or not completed. I tried twice and is not working yet. My coworker have the same problem. image703×715 62.9 KB Can you help me with this please?",
+      "icon": "https://xsgames.co/randomusers/assets/avatars/male/18.jpg",
+      "comments": "2",
+      "daysOld": "6"
+    },
+    {
+      "question": "Where can i purchase the West europe Listing Plan: Complete Standard Package?",
+      "description": "Hello everyone, I have a problem. I would like to book the “Complete Standard Package” listing package. After entering my card details, I am redirected to where I am supposed to add my first set of data. I am asked to enter my phone number, but unfortunately, no matter how I enter it (+49…, 0049…, 089…), I get the error message “Number not Valid.” Am I doing something wrong? Could it be that the Yext link I am using is only for booking a package in America? https://www.yext.com/pl/powerlistings/plans.html?utm_source=email&amp;utm_medium=email&amp;utm_content=brand_smb_ar&amp;utm_campaign=brand&amp;mkt_tok=OTA2LUlCQS0zNTMAAAGKIuw2NF_MjIg0blfPJUqQuOJvzew0Ld8tn2GCculpWct4nNy19wcb9fB0Jqd3JbIpnB2unLHmpZxZVKcgNWS9-uHL-yPwNJ1Gnz9Z0zxnXKqpo1c If yes, where can I find the package for Western Europe? I would appreciate any help with this. Best regards, Christian",
+      "icon": "https://xsgames.co/randomusers/assets/avatars/female/23.jpg",
+      "comments": "12",
+      "daysOld": "35"
+    }
+  ]
+}

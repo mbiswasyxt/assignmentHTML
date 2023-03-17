@@ -1,0 +1,22 @@
+[
+  {
+    "type": "trainings",
+    "image": "https://hitchhikers.yext.com/img/icons/tracks/cyan/search-ui-react.svg",
+    "title": "Getting Started with Search UI React",
+    "category": "SEARCH UI REACT TRACK",
+    "description": "Learn how to add Search UI React to a Yext Pages project.",
+    "unitsCount": 4,
+    "time": 35,
+    "points": 80
+  },
+  {
+    "type": "Guides",
+    "image": "https://hitchhikers.yext.com/img/icons/home/guides.svg",
+    "title": "Get Started with Content Endpoints",
+    "category": "API GUIDE",
+    "description": "Learn how to add Search UI React to a Yext Pages project.",
+    "unitsCount": 4,
+    "time": 20,
+    "points": 0
+  }
+]
