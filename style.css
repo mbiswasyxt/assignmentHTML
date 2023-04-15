@@ -1,7 +1,8 @@
 .deleteContent {
   font-size: xx-large;
+  color: transparent;
   /* uncomment the below line to get rid of the dummy place holders*/
-  /*display: none; */
+  display: none;
 }
 
 .header {
@@ -25,7 +26,7 @@
   font-weight: 600;
 }
 
-.imageAndNavBar {
+imageAndNavBar {
   display: flex;
   align-items: center;
 }
@@ -43,7 +44,32 @@
 .leftSidebar {
   width: 25%;
   background-color: #2584a1;
+  display: flex;
+  color: #fff;
+  border-color: #fff;
+  /* flex-direction: column; */
+  /* justify-content: center; */
 }
+/* .home-sidebar-profile-name {
+  display: flex;
+  justify-content: center;
+  font-size: 24px;
+  line-height: 28px;
+  font-weight: 700;
+  margin-top: 16px;
+  text-align: center;
+  color: #fff;
+} */
+.home-sidebar-profile-additional {
+  display: flex;
+  justify-content: space-between;
+}
+.home-sidebar-profile-additional-single-ttle {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
 .rightBar {
   width: 75%;
   background-color: #eeeff0;
@@ -52,4 +78,38 @@
   overflow: scroll;
   justify-content: space-between;
   flex-direction: column;
+}
+
+.home-sidebar-profile-image {
+  width: 176px;
+  height: 176px;
+  border-radius: 9999px;
+  border: 1px solid #fff;
+  background-color: #fff;
+  margin-top: 38px;
+}
+.home-sidebar-profile-name {
+  font-size: 24px;
+  line-height: 28px;
+  font-weight: 700;
+  margin-top: 16px;
+  text-align: center;
+}
+.home-sidebar-profile-title {
+  font-size: 21px;
+  line-height: 24px;
+  height: 48px;
+  margin-top: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  overflow: hidden;
+}
+
+.home-sidebar {
+  /* background: 0 0 !important; */
+  display: flex;
+  flex-direction: column;
+  /* align-items: flex-end; */
 }
